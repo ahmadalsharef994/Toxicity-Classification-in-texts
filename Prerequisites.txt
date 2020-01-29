@@ -4,5 +4,5 @@ Install Pytorch-Pretrained-BERT
 Install Bert-Inference DataSet
 Install https://www.kaggle.com/iezepov/gensim-embeddings-dataset 
 Install https://www.kaggle.com/abhishek/pytorch-bert-inference
-Download Train Data (Train.CSV) from:
+Download Train Data (train.CSV) and Test Data (test.csv) from:
 https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
