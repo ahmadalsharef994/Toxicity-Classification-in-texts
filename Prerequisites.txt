@@ -1,0 +1,12 @@
+Install Pytorch
+Install Fastai
+Install Pytorch-Pretrained-BERT
+
+
+from https://www.kaggle.com/yuval6967/toxic-bert-plain-vanila/output, Output Files,
+Download:
+1) bert_pytorch.bin
+and put it in the folder Toxic BERT plain vanilla
+
+
+Install https://www.kaggle.com/iezepov/gensim-embeddings-dataset 
